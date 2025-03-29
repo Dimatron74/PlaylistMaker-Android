@@ -10,7 +10,7 @@
     <string name="text_user_agreement">Пользовательское соглашение</string>
     <string name="link_user_agreement">https://yandex.ru/legal/practicum_offer/</string>
     <string name="title_text_support">Сообщение разработчикам приложения Playlist Maker</string>
-    <string name="message_support">Спасибо разработчикам за крутое приложение!</string>
+    <string name="message_support">Спасибо разработчикам за полезное музыкальное приложение!</string>
     <string name="email_text_support">dimalogachevlivny@gmail.com</string>
     <string name="clearButtonDesc">Очистить</string>
     <string name="text_errors_share_app">Не удалось открыть окно чтобы поделиться приложением</string>
