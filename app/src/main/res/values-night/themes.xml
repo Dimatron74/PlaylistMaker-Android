@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PlaylistMaker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:background">@color/black_background</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorSecondary">@color/white</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/black_background</item>
+    </style>
+
+    <style name="ThemeButtonSettings" parent="Base.Theme.PlaylistMaker">
+        <item name="iconTint">@color/white</item>
+    </style>
+
+    <style name="ThemeSearchActivity" parent="Base.Theme.PlaylistMaker">
+        <item name="android:background">@color/black_background</item>
+    </style>
+
+    <style name="ThemeAudioPlayerActivity" parent="Base.Theme.PlaylistMaker">
+        <item name="android:background">@color/black_background</item>
+        <item name="iconTint">@color/white</item>
+    </style>
+</resources>

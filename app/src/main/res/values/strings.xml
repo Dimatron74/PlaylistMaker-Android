@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Playlist Maker</string>
+    <string name="text_search">Поиск</string>
+    <string name="text_media_library">Медиатека</string>
+    <string name="text_settings">Настройки</string>
+    <string name="text_dark_theme">Темная тема</string>
+    <string name="text_share_app">Поделиться приложением</string>
+    <string name="link_text_share_app">ИВТ-211 Логачёв</string>
+    <string name="text_support">Написать в поддержку</string>
+    <string name="text_user_agreement">Пользовательское соглашение</string>
+    <string name="link_user_agreement">https://yandex.ru/legal/practicum_offer/</string>
+    <string name="title_text_support">Сообщение разработчикам приложения Playlist Maker</string>
+    <string name="message_support">Спасибо разработчикам за крутое приложение!</string>
+    <string name="email_text_support">dimalogachevlivny@gmail.com</string>
+    <string name="clearButtonDesc">Очистить</string>
+    <string name="text_errors_share_app">Не удалось открыть окно чтобы поделиться приложением</string>
+    <string name="text_errors_write_support">Не удалось открыть окно для отправки сообщения тех. поддержке</string>
+    <string name="text_errors_open_browser">Не удалось открыть браузер</string>
+    <string name="empty_search">Ничего не нашлось</string>
+    <string name="no_internet">Проблемы со связью \n\nЗагрузка не удалась. Проверьте подключение к интернету</string>
+    <string name="favourite">добавить в избранное</string>
+    <string name="unknownAlbum">Неизвестный альбом</string>
+    <string name="duration">Длительность</string>
+    <string name="album">Альбом</string>
+    <string name="releaseYear">Год</string>
+    <string name="genre">Жанр</string>
+    <string name="country">Страна</string>
+    <string name="unknownReleaseDate">Неизвестная дата релиза</string>
+    <string name="unknownGenre">Неизвестный жанр</string>
+    <string name="unknownCountry">Неизвестная страна</string>
+    <string name="refresh">Обновить</string>
+    <string name="messageHintSearch">Введите название трека или исполнителя</string>
+    <string name="search_history_title">Вы искали</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="album_art">обложка альбома</string>
+    <string name="add_to_playlist">добавить в плейлист</string>
+    <string name="play_pause">Включить, пауза</string>
+
+
+
+</resources>

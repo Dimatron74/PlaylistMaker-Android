@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:theme="@style/Base.Theme.PlaylistMaker"
+    tools:context=".presentation.ui.MainActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/main_toolbar"
+        style="@style/ToolbarBase"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        app:title="@string/app_name"
+        app:titleTextColor="@color/white" />
+
+    <Button
+        android:id="@+id/search"
+        style="@style/ButtonStyleMain"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_0dp"
+        android:layout_marginTop="@dimen/layout_margin_top_24dp"
+        android:layout_weight="1"
+        android:text="@string/text_search"
+        app:icon="@drawable/search" />
+
+    <Button
+        android:id="@+id/media_library"
+        style="@style/ButtonStyleMain"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_0dp"
+        android:layout_weight="1"
+        android:text="@string/text_media_library"
+        app:icon="@drawable/media_library"
+
+        />
+
+    <Button
+        android:id="@+id/settings"
+        style="@style/ButtonStyleMain"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_0dp"
+        android:layout_weight="1"
+        android:text="@string/text_settings"
+        app:icon="@drawable/settings" />
+
+</LinearLayout>
+
+

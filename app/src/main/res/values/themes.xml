@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PlaylistMaker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:background">@color/blue_background</item>
+        <item name="colorSecondary">@color/black</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.PlaylistMaker" parent="Base.Theme.PlaylistMaker" />
+
+    <style name="ThemeButtonSettings" parent="Base.Theme.PlaylistMaker">
+        <item name="iconTint">@color/gray_for_image</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="ThemeSearchActivity" parent="Base.Theme.PlaylistMaker">
+        <item name="android:background">@color/white</item>
+        <item name="iconTint">@color/black</item>
+    </style>
+
+    <style name="ThemeAudioPlayerActivity" parent="Base.Theme.PlaylistMaker">
+        <item name="android:background">@color/white</item>
+        <item name="iconTint">@color/black</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorPrimary">@color/white</item>
+    </style>
+</resources>
