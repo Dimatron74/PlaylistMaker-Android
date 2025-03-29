@@ -9,7 +9,7 @@
     </style>
 
     <style name="ThemeButtonSettings" parent="Base.Theme.PlaylistMaker">
-        <item name="iconTint">@color/white</item>
+        <item name="iconTint">@color/white_text</item>
     </style>
 
     <style name="ThemeSearchActivity" parent="Base.Theme.PlaylistMaker">
@@ -18,6 +18,6 @@
 
     <style name="ThemeAudioPlayerActivity" parent="Base.Theme.PlaylistMaker">
         <item name="android:background">@color/black_background</item>
-        <item name="iconTint">@color/white</item>
+        <item name="iconTint">@color/white_text</item>
     </style>
 </resources>
