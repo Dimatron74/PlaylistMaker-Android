@@ -9,7 +9,7 @@
 
 ## Запуск проекта
 
-### 1. Клонируйте репозиторий
+### 1. Клонируйте репозиторий (можно пропустить Projects - Clone Repository)
 ```bash
 git clone https://github.com/Dimatron74/PlaylistMaker-Android.git
 cd PlaylistMaker-Android
